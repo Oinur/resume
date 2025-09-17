@@ -1,0 +1,44 @@
+﻿.counterMain{
+    
+    width:400px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.counterContainerBlock{
+    height:60%;
+    
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+    
+    border-radius:60px;
+    box-shadow: 10px 10px 15px rgb(0, 0, 0);
+}
+.counterBtns{
+    display:flex;
+    justify-items:20px;
+    
+}
+.minusBtn{
+    height:70px;
+    font-size:1.5em;
+    margin:10px;
+    background-color:red;
+    border:5px darkred solid;
+    border-radius:25px;
+    color:white;
+}
+
+.plusBtn {
+    height: 70px;
+    font-size: 1.5em;
+    margin: 10px;
+    background-color: green;
+    border: 5px darkgreen solid;
+    border-radius: 25px;
+    color: white;
+}

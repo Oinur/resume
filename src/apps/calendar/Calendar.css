@@ -1,0 +1,40 @@
+﻿.calendarBlock {
+    
+    height:96%;
+}
+.inputBlock{
+    
+    
+    text-align:center;
+    
+    
+}
+.calendarInput {
+    font-size: 32px; 
+    height: 50px; 
+    line-height: 50px; 
+    padding: 0 12px; 
+    box-sizing: border-box; 
+    vertical-align:bottom;
+}
+
+.calendarBtn{
+    font-size:1.5em;
+    height:50px;
+    
+}
+
+.calendarContainer{
+    padding-top:20px;
+    display:flex;
+    justify-content:center;
+}
+.calendar{
+    font-size:25px;
+    width:435px;
+    height:350px;
+}
+td{
+    height:50px;
+    width:50px;
+}

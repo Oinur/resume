@@ -1,0 +1,70 @@
+﻿html, body{
+    
+    height:100%;
+
+    
+}
+
+.calculatorContainer{
+    display:flex;
+    width:100%;
+    height:100%;
+    flex-direction:column;
+    justify-content:start;
+    align-items:center;
+    
+
+}
+
+
+.calculatorBlock{
+    display:flex;
+    flex-direction:column;
+    border:5px black solid;
+    border-radius:25px;
+    overflow:hidden;
+    width:80%;
+}
+
+.calculatorInput{
+    display:flex;
+    justify-content:center;
+    position:relative;
+    
+}
+.calInput{
+    text-align:right;
+    height:100px;
+    width:100%;
+    font-size:3em;
+}
+
+
+
+
+.btnContainer{
+    display:grid;
+    border-top:0px black solid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+}
+
+.numBtn{
+    
+    font-size:2em;
+    height:100px;
+    
+}
+.clearBtn {
+    position: absolute;
+    left: 2%;
+    bottom: 10%;
+    width: 20%;
+    height: 80px;
+    background-color:ButtonFace;
+    border: 0;
+    font-size:2em;
+}
+
+.clearBtn:hover {
+   background-color: rgb(128 128 128)
+}
