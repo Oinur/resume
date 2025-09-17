@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Oinur/resume/static/css/main.cb9dd05d.css",
-    "main.js": "/Oinur/resume/static/js/main.e16c0c8c.js",
-    "static/js/453.8219f373.chunk.js": "/Oinur/resume/static/js/453.8219f373.chunk.js",
-    "static/media/reactLogo.png": "/Oinur/resume/static/media/reactLogo.dacbd3da021208c01f3c.png",
-    "static/media/book.png": "/Oinur/resume/static/media/book.6e05abf202b303089c07.png",
-    "static/media/tsLogo.png": "/Oinur/resume/static/media/tsLogo.012e4c43666056751db2.png",
-    "static/media/jsLogo.png": "/Oinur/resume/static/media/jsLogo.a2a6881dbbacbfe8631f.png",
-    "static/media/coolSmile.png": "/Oinur/resume/static/media/coolSmile.0d870090e98fae8e00da.png",
-    "static/media/profile.png": "/Oinur/resume/static/media/profile.b11f45a152bb037786cd.png",
-    "index.html": "/Oinur/resume/index.html",
-    "static/media/css.svg": "/Oinur/resume/static/media/css.4e47c3122b8d2476a02f.svg",
-    "main.cb9dd05d.css.map": "/Oinur/resume/static/css/main.cb9dd05d.css.map",
-    "main.e16c0c8c.js.map": "/Oinur/resume/static/js/main.e16c0c8c.js.map",
-    "453.8219f373.chunk.js.map": "/Oinur/resume/static/js/453.8219f373.chunk.js.map"
+    "main.css": "/resume/static/css/main.3b5dc9b5.css",
+    "main.js": "/resume/static/js/main.534037a8.js",
+    "static/js/453.8219f373.chunk.js": "/resume/static/js/453.8219f373.chunk.js",
+    "static/media/reactLogo.png": "/resume/static/media/reactLogo.dacbd3da021208c01f3c.png",
+    "static/media/book.png": "/resume/static/media/book.6e05abf202b303089c07.png",
+    "static/media/tsLogo.png": "/resume/static/media/tsLogo.012e4c43666056751db2.png",
+    "static/media/jsLogo.png": "/resume/static/media/jsLogo.a2a6881dbbacbfe8631f.png",
+    "static/media/coolSmile.png": "/resume/static/media/coolSmile.0d870090e98fae8e00da.png",
+    "static/media/profile.png": "/resume/static/media/profile.b11f45a152bb037786cd.png",
+    "index.html": "/resume/index.html",
+    "static/media/css.svg": "/resume/static/media/css.4e47c3122b8d2476a02f.svg",
+    "main.3b5dc9b5.css.map": "/resume/static/css/main.3b5dc9b5.css.map",
+    "main.534037a8.js.map": "/resume/static/js/main.534037a8.js.map",
+    "453.8219f373.chunk.js.map": "/resume/static/js/453.8219f373.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb9dd05d.css",
-    "static/js/main.e16c0c8c.js"
+    "static/css/main.3b5dc9b5.css",
+    "static/js/main.534037a8.js"
   ]
 }
